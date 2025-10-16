@@ -1,4 +1,4 @@
 Ivan Sabljić
 Danas se bavimo brenchom.
 
-.gitnignore - znači da kažemo Gitu za zanemari sve ddatoteke koji su na popisu u tom .gitnignore
+.gitignore - znači da kažemo Gitu da zanemari sve datoteke koji su na popisu u toj datoteci .gitnignore
